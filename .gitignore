@@ -1,0 +1,13 @@
+/.project
+/*.iml
+/*/*.iml
+/*/*/*.iml
+/.settings
+/*/.classpath
+/*/.project
+/*/.settings
+/*/target
+.idea/
+/*/*/target
+${sys:catalina.home}/
+asclient.log
